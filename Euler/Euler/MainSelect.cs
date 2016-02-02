@@ -20,6 +20,7 @@ namespace Euler
         private void Form1_Load(object sender, EventArgs e)
         {
             cmbEulerProblem.Items.Add("1 - Multiples of 3 and 5");
+            cmbEulerProblem.Items.Add("2 - Even Fibonacci numbers");
             cmbEulerProblem.SelectedIndex = 0;
 
         }
