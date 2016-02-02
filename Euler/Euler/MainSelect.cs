@@ -21,6 +21,7 @@ namespace Euler
         {
             cmbEulerProblem.Items.Add("1 - Multiples of 3 and 5");
             cmbEulerProblem.Items.Add("2 - Even Fibonacci numbers");
+            cmbEulerProblem.Items.Add("3 - Largest Prime Factor");
             cmbEulerProblem.SelectedIndex = 0;
 
         }
