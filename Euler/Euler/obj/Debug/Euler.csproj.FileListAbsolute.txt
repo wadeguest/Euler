@@ -1,0 +1,10 @@
+C:\Users\Wade\Documents\GitHub\Euler\Euler\Euler\bin\Debug\Euler.exe.config
+C:\Users\Wade\Documents\GitHub\Euler\Euler\Euler\bin\Debug\Euler.exe
+C:\Users\Wade\Documents\GitHub\Euler\Euler\Euler\bin\Debug\Euler.pdb
+C:\Users\Wade\Documents\GitHub\Euler\Euler\Euler\obj\Debug\Euler.csprojResolveAssemblyReference.cache
+C:\Users\Wade\Documents\GitHub\Euler\Euler\Euler\obj\Debug\Euler.frMain.resources
+C:\Users\Wade\Documents\GitHub\Euler\Euler\Euler\obj\Debug\Euler.Properties.Resources.resources
+C:\Users\Wade\Documents\GitHub\Euler\Euler\Euler\obj\Debug\Euler.csproj.GenerateResource.Cache
+C:\Users\Wade\Documents\GitHub\Euler\Euler\Euler\obj\Debug\Euler.exe
+C:\Users\Wade\Documents\GitHub\Euler\Euler\Euler\obj\Debug\Euler.pdb
+C:\Users\Wade\Documents\GitHub\Euler\Euler\Euler\obj\Debug\Euler.frEulerImplementation.resources
